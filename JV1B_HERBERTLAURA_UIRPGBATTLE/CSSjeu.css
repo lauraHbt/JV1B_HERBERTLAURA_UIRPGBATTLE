@@ -1,0 +1,50 @@
+main{
+    background-image: url(Background.png);
+    width: 1200px; height: 800px;
+    border: black 50px;
+}
+.div#tout{
+    width: 1200px; height: 800px;
+}
+.personnage{
+display: flex;
+
+}
+.monstre{
+display: flex;
+}
+#morfire{
+
+}
+.inter{
+display: flex;
+}
+#dialogue{
+    display: flex;
+    justify-content: center;
+}
+#purple{
+    width: 150px; height: 100px;
+}
+#blue{
+    width: 150px; height: 100px;
+}
+#green{
+    width: 150px; height: 100px;
+}
+#pink{
+    width: 150px; height: 100px;
+}
+.div#bas{
+    display: flex;
+    align-items: flex-end;
+}
+#window{
+    display: flex;
+    align-content: flex-end;
+    width: 1200px; height: 200px;
+}
+.vie{
+    display: flex;
+    flex-direction: column;
+}
